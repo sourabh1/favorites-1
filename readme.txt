@@ -20,7 +20,7 @@ Gives the website user an option to add things to their favorites. ( And then re
 *   Pages
 *   Custom Post Types
 *   Taxonomies
-*   Members 
+*   Membersï¿½
 
 
 So the website user can add posts, pages, CPT\'s, taxonomies and even other members to their favorites list.
@@ -41,7 +41,8 @@ Then go to the plugin settings page inside 'Settings' menu and configure some op
 
 YES.
 
- 
+ï¿½
 **Is there a way i can sort posts with the posts with most number of saves coming first ?**
 
 YES.
+THIS IS TO TEST
