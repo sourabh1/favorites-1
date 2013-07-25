@@ -299,4 +299,7 @@ function update_item_favorites_count($object_type, $object_parent, $object_id, $
 	}
 	return $new_count;
 }
+function function_to_test(){
+	return "This is my code from github";
+}
 
